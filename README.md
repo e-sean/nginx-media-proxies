@@ -7,4 +7,4 @@ An NGINX configuration sample for setting up reverse proxy to allow following se
 - `http://X.X.X.X/deluge`
 - `http://X.X.X.X/` Default NGINX page
 
-Highly scalable. Just keep adding more service-*.conf files.
+Highly scalable. Just keep adding more service-*.conf files..
